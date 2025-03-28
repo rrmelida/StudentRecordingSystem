@@ -1,0 +1,22 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  background-color: #fef6fb;
+  color: #5a2a6d;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-weight: 600;
+  color: #b0568d;
+}
+
+.student-form, .student-list {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
